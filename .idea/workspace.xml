@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="363e299d-aeee-4345-84c6-e2389bccd144" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/FirstPaygetdataBirt.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/FirstPayinitCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/RepayCheckListCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/RepayCheckgethuizongCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getFinanceLoanCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getFinanceLoanSumDateCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getoutMallListCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/mallSettleCheckListCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/mallSettleCheckgetdataBirtCase.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MallSettleCheckList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MallSettleCheckgetdataBirt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RepayCheckgethuizong.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clien.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookietest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crmTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstPaygetdataBirt.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstPayinit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getFinanceLoan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getFinanceLoanSumDate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/analysis/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/DataDriver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/LoadTestCase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/data/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/data/dealMysql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/help/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/scheduler/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/HttpUrlConnection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/Md5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/TimeStamp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/caseDateHandle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/dataTypeHandle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/httpInterface.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/logOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/readConfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/remoteServer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/verifier/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/verifier/testResultOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reconciliationAutoTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reconciliationInterfaceTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repayChecklist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-    </list>
+    <list default="true" id="363e299d-aeee-4345-84c6-e2389bccd144" name="Default" comment="" />
     <ignored path="AutomatedPythonTest.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +21,18 @@
     <favorites_list name="AutomatedPythonTest" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="cookietest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cookietest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,9 +134,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -210,6 +165,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookietest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
