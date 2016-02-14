@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="363e299d-aeee-4345-84c6-e2389bccd144" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/FirstPaygetdataBirt.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/FirstPayinitCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/RepayCheckListCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/RepayCheckgethuizongCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getFinanceLoanCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getFinanceLoanSumDateCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/getoutMallListCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/mallSettleCheckListCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/mallSettleCheckgetdataBirtCase.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterfaceTest3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MallSettleCheckList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MallSettleCheckgetdataBirt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RepayCheckgethuizong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clien.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookietest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crmTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataTable/login.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstPaygetdataBirt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstPayinit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getFinanceLoan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getFinanceLoanSumDate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/analysis/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/DataDriver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/LoadTestCase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/Main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/caseManage/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/data/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/data/dealMysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/help/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/scheduler/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/HttpUrlConnection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/Md5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/TimeStamp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/caseDateHandle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/dataTypeHandle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/httpInterface.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/logOutput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/readConfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/remoteServer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/util/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/verifier/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyAuto/verifier/testResultOutput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reconciliationAutoTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reconciliationInterfaceTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/repayChecklist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
+    <ignored path="AutomatedPythonTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AutomatedPythonTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomatedPythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomatedPythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomatedPythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomatedPythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomatedPythonTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workpycharmspace\AutomatedPythonTest" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="363e299d-aeee-4345-84c6-e2389bccd144" name="Default" comment="" />
+      <created>1455436553484</created>
+      <option name="number" value="Default" />
+      <updated>1455436553484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
